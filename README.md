@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+1.	What is the URL to your GitHub-Pages site?
+https://github.com/sirish-gurung/Computing_Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+2.	What API did you use and why?
+I used one of the news API (https://github.com/cyberboysumanjay/Inshorts-News-API) because there were data’s that could be filtered easily.
 
-## Available Scripts
+3.	What are some other applications for your API other than searching? Name a few and describe how an app using it for that purpose might work.
+Some of the other applications for the API I used were; to display a short news, display a short news by date, display a short news by author and many more.
 
-In the project directory, you can run:
+4.	Explain the considerations you needed to make for the website to be responsive & mobile-friendly.
+Used responsive elements such as bootstrap, and media queries. 
 
-### `npm start`
+5.	How can you make your app accessible to people with disabilities such as blindness or colorblindness?
+We could use functions such as voice over text and using color scheme toggle for different kind of color blindness. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+6.	If you could make further changes to your project to improve/expand the experience, what would they be and how would you go about implementing them?
+If I could further improve/ expand my project, I would add more UI/UX components to make the webpage beautiful. I would also use material UI to make the UI consistent throughout the website. Furthermore, I would connect it to a database. 
